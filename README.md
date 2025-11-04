@@ -58,14 +58,14 @@ J’apprends, je construis et j’améliore mes compétences dans ces domaines �
 ## 🚀 Objectifs à court et moyen terme
 
 🎯 **D’ici 3 mois :**
-- Objectif 1 — ex : maîtriser Git et GitHubjs]
+- Objectif 1 — ex : maîtriser Git et GitHub
 - Objectif 2 — ex : construire mon premier projet Next.js
 - Objectif 3 — ex : apprendre les bases du backend
 
 🌍 **D’ici 6 à 12 mois :**
 - Objectif 1 — ex : contribuer à un projet open-source
 - Objectif 2 — ex : décrocher mon premier stage ou freelancing
-- Objectif 3 — ex : approfondir DevOps / Cloud
+- Objectif 3 — ex : approfondir DevOps / Cloud.
 
 ---
 
@@ -95,4 +95,5 @@ J’apprends, je construis et j’améliore mes compétences dans ces domaines �
 <div align="center">
   <h3>💡 Toujours en apprentissage, toujours en construction pour évoluer. Connectons-nous ! 💡</h3>
 </div>
+
 
